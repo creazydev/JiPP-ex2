@@ -11,7 +11,6 @@ class Employee {
 public:
     Employee(string id, string name, string surname, string departmentId, string position);
     Employee(const Employee &employee);
-    ~Employee();
     string getId();
     string getName();
     string getSurname();

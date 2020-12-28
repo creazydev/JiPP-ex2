@@ -20,10 +20,6 @@ Employee::Employee(const Employee &employee) {
     Employee::position = employee.position;
 }
 
-Employee::~Employee() {
-    cout << "Destructed" << this << endl;
-}
-
 string Employee::getId() {
     return Employee::id;
 }

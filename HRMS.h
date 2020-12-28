@@ -1,5 +1,5 @@
 //
-// Created by creazy on 25/11/2020.
+// Created by Kamil Nowak on 25/11/2020.
 //
 
 #ifndef EX2_HRMS_H
